@@ -1,0 +1,51 @@
+{
+  "data_media": [
+    {
+      "Media_Name": "WA IP7+"
+    },
+    {
+      "Media_Name": "WA IP8"
+    },
+    {
+      "Media_Name": "WA IP11"
+    },
+    {
+      "Media_Name": "LIVE COLABS"
+    },
+    {
+      "Media_Name": "LIVE ALLTHAT"
+    },
+    {
+      "Media_Name": "TOKPED ALLTHAT"
+    },
+    {
+      "Media_Name": "TOKPED KARMALION"
+    },
+    {
+      "Media_Name": "TOKPED RAGHOUSE"
+    },
+    {
+      "Media_Name": "SHOPEE"
+    }
+  ],
+  "data_rek": [
+    {
+      "Rek_Name": "BCA Friza"
+    },
+    {
+      "Rek_Name": "BCA Handoko"
+    },
+    {
+      "Rek_Name": "TOKPED KARMALION"
+    },
+    {
+      "Rek_Name": "TOKPED RAGHOUSE"
+    },
+    {
+      "Rek_Name": "TOKPED ALLTHAT"
+    },
+    {
+      "Rek_Name": "SHOPEE"
+    }
+  ]
+}
